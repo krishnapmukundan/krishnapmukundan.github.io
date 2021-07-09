@@ -2,3 +2,29 @@ baseURL: https://krishnapmukundan.github.io/
 languageCode: en-us
 title: Normal Economist
 theme: "PaperMod"
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Your friendly neighbhourhood Economist"
+  author: Krishna PM
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: dark
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: false
+  # comments: false
+  homeInfoParams:
+    Title: "Krishna PM"
+    Content: >
+      Your friendly neighbhourhood Economist.
+  socialIcons:
+    - name: github
+      url: "https://github.com/krishnapmukundan"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/krishna-pm"
