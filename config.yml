@@ -1,7 +1,7 @@
 baseURL: https://krishnapmukundan.github.io/
 languageCode: en-us
 title: Normal Economist
-theme: "PaperMod"
+theme: "PaperMod2"
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Your friendly neighbhourhood Economist"
